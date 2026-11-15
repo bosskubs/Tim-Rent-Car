@@ -1,0 +1,16 @@
+{
+  "publicHttpsVerified": true,
+  "authentication": "local-demo-code",
+  "unauthenticatedApiDenied": true,
+  "browserUnlockAndCustomerLoginVerified": true,
+  "sessionStillValidAfter6500ms": true,
+  "secureCookie": true,
+  "publicBookingContractAndPaymentSessionVerified": true,
+  "qrUsesPublicHttps": true,
+  "tests": {
+    "pass": 31,
+    "fail": 0
+  },
+  "humanMobileConfirmation": "pending",
+  "note": "No URL, access code, session cookie or personal email is stored in this evidence."
+}
