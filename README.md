@@ -16,6 +16,6 @@ Tim Rent Car เป็นโครงการออกแบบและพั�
 
 ## My Contribution (System Analysis & Design)
 ในโครงการกลุ่มนี้ ผมรับผิดชอบในส่วนของการวิเคราะห์และออกแบบระบบ (System Analysis):
-* **Use Case Diagram (UML):** ออกแบบ Use Case Diagram เพื่อกำหนดขอบเขตของระบบ (System Boundary) และระบุความสัมพันธ์ระหว่างผู้ใช้งาน (Actors) กับฟังก์ชันการทำงานต่างๆ[span_3](start_span)[span_3](end_span)
-* **Role & Permission Analysis:** วิเคราะห์และกำหนดสิทธิ์การเข้าถึงระบบของ Actor ระดับต่างๆ เช่น เจ้าหน้าที่บริการ (Staff), ผู้ดูแลระบบ (Admin) และ เจ้าหน้าที่ตรวจสอบสภาพรถ (Inspector)[span_4](start_span)[span_4](end_span)
-* **System Workflow:** ออกแบบฟังก์ชันการทำงานของระบบตาม Requirement เช่น การจองรถ, การจัดการข้อมูลลูกค้า, การเชื่อมต่อระบบชำระเงินผ่าน API (QR/Credit Card), และการบันทึกประวัติการซ่อมบำรุง[span_5](start_span)[span_5](end_span)
+* **Use Case Diagram (UML):** ออกแบบ Use Case Diagram เพื่อกำหนดขอบเขตของระบบ (System Boundary) และระบุความสัมพันธ์ระหว่างผู้ใช้งาน (Actors) กับฟังก์ชันการทำงานต่างๆ
+* **Role & Permission Analysis:** วิเคราะห์และกำหนดสิทธิ์การเข้าถึงระบบของ Actor ระดับต่างๆ เช่น เจ้าหน้าที่บริการ (Staff), ผู้ดูแลระบบ (Admin) และ เจ้าหน้าที่ตรวจสอบสภาพรถ (Inspector)
+* **System Workflow:** ออกแบบฟังก์ชันการทำงานของระบบตาม Requirement เช่น การจองรถ, การจัดการข้อมูลลูกค้า, การเชื่อมต่อระบบชำระเงินผ่าน API (QR/Credit Card), และการบันทึกประวัติการซ่อมบำรุง
